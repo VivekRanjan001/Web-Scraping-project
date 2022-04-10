@@ -1,0 +1,1 @@
+print('hello wold\n*20')
